@@ -3,4 +3,4 @@
 
 조원: 김채영, 남원광, 박서휘, 정주영
 
-발표 동영상 : https://youtu.be/gG5fve6AzOc?t=7419
+발표 동영상 : https://youtu.be/gG5fve6AzOc?t=7455
