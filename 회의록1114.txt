@@ -1,0 +1,33 @@
+공설입 7조 회의록 
+
+[ 회의 개요 ]
+
+1. 일시 : 2020. 11. 14. (목) 20 : 00 ~ 18 : 00 
+2. 장소 : 한동대학교 상상랩3 & zoom 회의실 
+3. 참석 (총 4명)
+한동대학교 정주영학부생, 김채영학부생, 박서휘학부생, 남원광학부생
+4. 주요 안건
+Select ONE problem that your group wants to solve
+
+[ 회의 내용 ]
+
+1. Group Mission 
+
+  1) Build an Objectives tree
+   - Github : 우리는 프로젝트를 위한 웹사이트를 Github를 이용한다.
+  2) Build a WBS
+   - 팀 헌장 : 우리의 팀 헌장을 GIthub에 업로드 했다.
+  3) Build a Gant chart
+   - 발표 ppt : 우리 조 발표 자료를 Github에 업로드 했다.
+  4) Link your presentation video address next to the presentation slide above.
+   - 유튜브 발표 영상 : 2 : 04 : 15초부터 발표하는 우리 조 영상을 Github에 업로드 했다.
+
+
+
+  
+
+
+
+[향후 과업]
+
+미션 #3,#4,#5 (~11/14) - 담당자 : 7조 조원 모두 
