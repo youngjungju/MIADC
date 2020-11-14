@@ -19,7 +19,7 @@ Introduction
   a. Detailed description of chosen alternative
   b. Description of prototype and how it works
 Conclusion
-Reference, Works cited
+Reference & Works cited
 Appendix: Objectives Tree
 Appendix: Work breakdown structure (WBC)
 Appendix: Percentage Complete Matrix (PCM)
