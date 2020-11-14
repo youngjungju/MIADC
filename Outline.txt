@@ -1,0 +1,25 @@
+Introduction
+Ⅰ. Problem Statement
+Ⅱ. 음압병실에 대한 배경지식, motivation for project
+Ⅲ. 디자인 계획
+  a. 원래의 음압병실 구조 (사진 포함)
+  b. Definition of objectives and constraints including objectives tree
+Ⅳ. 디자인 research
+  a. 현재 전국에 정신병원에 있는 음압병실의 수
+  b. evaluation of 음압병실 in this project
+Ⅴ. Description and evaluation of design alternatives
+  a. Details and drawings of each alternatives
+  b. Metrics for choosing between designs
+Ⅵ. 디자인 evaluation
+  a. Consideration of constraints
+  b. How well design meets objectives
+  c. Functional analysis
+  d. Details on proposed design changes based on testing and evaluation
+Ⅶ. 최종 디자인
+  a. Detailed description of chosen alternative
+  b. Description of prototype and how it works
+Conclusion
+Reference, Works cited
+Appendix: Objectives Tree
+Appendix: Work breakdown structure (WBC)
+Appendix: Percentage Complete Matrix (PCM)
