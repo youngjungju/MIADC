@@ -7,27 +7,32 @@
 3. 참석 (총 4명)
 한동대학교 정주영학부생, 김채영학부생, 박서휘학부생, 남원광학부생
 4. 주요 안건
-Select ONE problem that your group wants to solve
+Objectives tree, WBS, Gant chart, final report
 
 [ 회의 내용 ]
 
-1. Group Mission 
+1. Group Mission #3
 
-  1) Build an Objectives tree
-   - Github : 우리는 프로젝트를 위한 웹사이트를 Github를 이용한다.
-  2) Build a WBS
-   - 팀 헌장 : 우리의 팀 헌장을 GIthub에 업로드 했다.
-  3) Build a Gant chart
-   - 발표 ppt : 우리 조 발표 자료를 Github에 업로드 했다.
-  4) Link your presentation video address next to the presentation slide above.
-   - 유튜브 발표 영상 : 2 : 04 : 15초부터 발표하는 우리 조 영상을 Github에 업로드 했다.
+  1) Build an Objectives tree - 김채영, 남원광, 박서휘
+   - Group Mission #2에서 정한 주제를 바탕으로 Objectives tree를 제작한다. 
+ 
+2. Group Mission #4
 
+  1) Build a Work Breakdown Stucture - 남원광, 박서휘, 김채영
+   - 구글 슬라이드를 통해 WBS를 제작한다. (2번째 ppt 참고)
+   
+  2) Create Gant chart - 정주영
+   - 엑셀을 이용하여 WBS를 토대로 Gant chart를 제작한다
+   
+   
+3. Group Mission #5
 
-
+  2) final report - 박서휘, 김채영
+   - final report 작성한다 (6번째 ppt 참고)
   
 
 
 
 [향후 과업]
 
-미션 #3,#4,#5 (~11/14) - 담당자 : 7조 조원 모두 
+목요일 수업에서 등장 (~11/19) - 담당자 : 7조 조원 모두 
