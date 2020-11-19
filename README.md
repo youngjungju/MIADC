@@ -14,3 +14,14 @@
 3) 가족들과 떨어져 지내야하는 외로움을 극복할 수 있는 환경
 
 4) 인간관계의 어려움
+
+2020.11.19
+
+미션 1 : Write your problem statement on your project website.
+
+-> 자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움
+
+// List principal functions.
+
+
+
