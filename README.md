@@ -28,3 +28,6 @@ Self-management : 남원광
 
 #### Build a Work Breakdown Stucture
 
+<img width="804" alt="스크린샷 2020-11-21 오전 2 21 17" src="https://user-images.githubusercontent.com/70834005/99830778-88d01780-2ba1-11eb-94db-f716cf9d9cca.png">
+
+
