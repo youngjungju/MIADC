@@ -4,6 +4,7 @@
 
 #### PART 
 
+```
 Communication : 정주영
 
 Decision Making : 박서휘
@@ -11,6 +12,7 @@ Decision Making : 박서휘
 Collaboration : 김채영
 
 Self-management : 남원광 
+```
 
 #### 11/5 presentation
 
