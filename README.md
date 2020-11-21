@@ -15,7 +15,7 @@ Collaboration : 김채영
 Self-management : 남원광 
 ```
 ---
-### 11/5 presentation
+### 11/5 presentation (발표 영상)
 
 [정신질환자가 음압병실에 있을 때 일어날 수 있는 문제점](https://youtu.be/gG5fve6AzOc?t=7455)
 
