@@ -1,3 +1,5 @@
+![Screen Shot 2020-11-26 at 2 11 01](https://user-images.githubusercontent.com/71685755/100260403-b398e200-2f8c-11eb-8ed3-63e8e884454a.png)
+
 ### Problem Statement
 자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움
 ===
