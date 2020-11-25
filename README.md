@@ -30,7 +30,7 @@ Self-management : 남원광
 1.Defining Problem Statement
 ---
 
-### 1.1 Select ONE problem that your group wants to solve.
+### 1.1 Select ONE problem that your group wants to solve
 
 __자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움__
 
