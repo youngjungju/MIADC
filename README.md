@@ -19,6 +19,12 @@ Self-management : 남원광
 
 ---
 
+### Gant Chart 
+
+<img width="60%" alt="스크린샷 2020-11-25 오후 9 17 30" src="https://user-images.githubusercontent.com/70834005/100227147-07430580-2f64-11eb-92b8-e80c863021f0.png">
+
+---
+
 1.Defining Problem Statement
 ---
 
