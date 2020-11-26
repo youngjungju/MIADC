@@ -17,7 +17,7 @@ Analyze your design alternatives
 1. Group Mission #1
 
   1) Analyze your design alternatives
-   1. 환자의 의사를 의료진에게 신속하고 정확하게 전달하는 어플 
+   1. 버튼을 통해 환자가 필요한 사항을 전달하는 어플 
    장점 : : 
       1. 환자가 의료진에게 자신의 의사를 전달하는데 걸리는 시간이 단축된다. 
       2. 환자가 의료진에게 단순하고 명확하게 의사를 전달할 수 있다.
