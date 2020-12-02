@@ -25,6 +25,7 @@ Self-management : 남원광
 
 <img width="60%" alt="스크린샷 2020-12-03 오전 4 07 13" src="https://user-images.githubusercontent.com/70834005/100920352-57026d80-351e-11eb-89a0-ef05a474b1a4.png">
 
+
 ---
 
 1. Defining Problem Statement
