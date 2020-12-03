@@ -43,7 +43,7 @@ __자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통�
 
 ### 1.3 Work Breakdown Stucture (WBS)
 
-<img width="150%" alt="스크린샷 2020-12-03 오후 4 19 16" src="https://user-images.githubusercontent.com/70834005/100976890-84353700-3583-11eb-9112-cb69c4964c6a.png">
+<img width="150%" alt="스크린샷 2020-12-03 오후 10 44 19" src="https://user-images.githubusercontent.com/70834005/101025649-3804e980-35b9-11eb-9739-670eac8be85c.png">
 
 ### 1.3 Percent Complete Matrix (PCM)
 
