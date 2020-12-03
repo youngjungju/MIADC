@@ -47,7 +47,7 @@ __자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통�
 
 ### 1.3 Percent Complete Matrix (PCM)
 
-<img width="150" alt="스크린샷 2020-12-03 오후 10 43 56" src="https://user-images.githubusercontent.com/70834005/101025740-58cd3f00-35b9-11eb-800f-555590a3378b.png">
+<img width="150%" alt="스크린샷 2020-12-03 오후 10 43 56" src="https://user-images.githubusercontent.com/70834005/101025740-58cd3f00-35b9-11eb-800f-555590a3378b.png">
 
 
 
