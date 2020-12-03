@@ -177,6 +177,10 @@ Description : 환자들과 의료진들과의 원활한 의사소통을 위해 �
 
 ### 3.4 Build a prototype.
 
+##### 초안
+<img width="200%" alt="스크린샷 2020-11-29 오후 4 19 19" src="https://user-images.githubusercontent.com/70834005/100979763-931de880-3587-11eb-89bf-7ce746da97d6.png">
+
+##### 
 <img width="200%" alt="스크린샷 2020-12-03 오후 4 33 42" src="https://user-images.githubusercontent.com/70834005/100978176-5ea92d00-3585-11eb-837b-1125f0658da2.png">
 
 
