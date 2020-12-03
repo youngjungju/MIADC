@@ -25,7 +25,7 @@ Self-management : 남원광
 
 ### Gant Chart 
 
-<img width="60%" alt="스크린샷 2020-12-03 오전 4 07 13" src="https://user-images.githubusercontent.com/70834005/100920352-57026d80-351e-11eb-89a0-ef05a474b1a4.png">
+<img width="150%" alt="스크린샷 2020-12-03 오전 4 07 13" src="https://user-images.githubusercontent.com/70834005/100920352-57026d80-351e-11eb-89a0-ef05a474b1a4.png">
 
 
 ---
@@ -39,13 +39,15 @@ __자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통�
 
 ### 1.2 Objectives tree 
 
-<img width="60%" alt="스크린샷 2020-11-21 오전 2 21 11" src="https://user-images.githubusercontent.com/70834005/99830602-460e3f80-2ba1-11eb-81bc-aa517c864e04.png">
+<img width="150%" alt="스크린샷 2020-11-21 오전 2 21 11" src="https://user-images.githubusercontent.com/70834005/99830602-460e3f80-2ba1-11eb-81bc-aa517c864e04.png">
 
 ### 1.3 Work Breakdown Stucture (WBS)
 
 <img width="150%" alt="스크린샷 2020-12-03 오후 4 19 16" src="https://user-images.githubusercontent.com/70834005/100976890-84353700-3583-11eb-9112-cb69c4964c6a.png">
 
-### 1.3 Work Breakdown Stucture (PCM)
+### 1.3 Percent Complete Matrix (PCM)
+
+<img width="150%" alt="스크린샷 2020-12-03 오후 4 19 45" src="https://user-images.githubusercontent.com/70834005/100977068-cbbbc300-3583-11eb-97c7-deecb4b37125.png">
 
 
 
