@@ -3,7 +3,7 @@
 ### Problem Statement
 자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움
 ===
-TEAM 7
+MIADC(Mentally Ill And Doctor Communication)
 ---
 
 ### PART 
