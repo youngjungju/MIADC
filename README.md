@@ -25,7 +25,8 @@ Self-management : 남원광
 
 ### Gant Chart 
 
-<img width="150%" alt="스크린샷 2020-12-03 오전 4 07 13" src="https://user-images.githubusercontent.com/70834005/100920352-57026d80-351e-11eb-89a0-ef05a474b1a4.png">
+<img width="150%" alt="스크린샷 2020-12-09 오후 10 31 56" src="https://user-images.githubusercontent.com/70834005/101636246-63cb1800-3a6e-11eb-9bbf-febbeb300e82.png">
+
 
 
 ---
