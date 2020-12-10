@@ -1,0 +1,68 @@
+Introduction and overview
+1. Problem Statement (simple)--> 의뢰받은 내용, 우리의 주제 제시
+1) executive summary
+→ 우리가 의뢰받은 내용은, 정신질환자들을 위한 음압병실 설계였다. 우리는 많은 문제점을 알고 있지만, 하나라도 제대로 해결하기 위해 이 중에서도 우리는 ‘소통’에 집중했고, ‘자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움’ 이라는 주제를 잡게 되었다.
+2. 음압병실에 대한 배경지식, motivation for project
+3. 디자인 계획
+1) 현재 정신병원에 음압병실이 있는 병원들의 수와 문제점 
+현재 정신병원에 음압병실이 있는 병원의 수 : 국립정신건강센터(1곳) → 4월기준 [문제점]하고 신속한 진단이 어려움
+→ 의료진이 환자와 소통하기 위해 거쳐야하는 단계가 많아서 시간이 지체됨
+→ 환자들과 직접적으로 소통하기 어렵기 때문에 정확
+→ 확진자를 초기에 발견하기 어려움
+→ 환자들의 증상이 명확하지 않기 때문에 정확한 진단에 어려움이 있음(면역력이 약해 무증상 환자들이 많음)
+→ 환자들 수에 비해 의료진들의 수가 부족하기 때문에 진단하는데 시간이 많이 소요됨
+→ 방호복으로 인해 서로 소통이 잘 되지 않음. (물리적인 소통의 어려움)
+→ 정상적인 소통조차 되지 않는 환자도 있어 소통이 어려움
+→ 자신의 상태를 잘 설명하지 못하는 환자들이 많음
+2) 우리가 해결하기로 결정한 문제점(selected problem) (PPC 차트 첨부) 
+→ PCC 차트를 통해, 우리는 소통 부분을 해결하기로 하였다.
+3) Problem Statement
+→ 우리가 문제를 세분화 한 과정 첨부
+→ 결과적으로 우리의 Problem statement는
+    :  ‘자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움’
+4) objectives and constraints (objectives tree 첨부)
+→ 사진 첨부 후 부가설명
+4. 디자인 research
+1) 현재 정신병원에 음압병실이 있는 병원들의 문제점에 대한 evaluation 
+→ 우리는 소통에 집중, 현재 음압병실은 유리에 글을 써 소통을 하는 등 환자들과의 직접적인 소통이 어렵다. 따라서, 직접적으로 소통을 하지 않고도 소통을 원활하게 할 수 있는 방식에 집중했다. 
+5. Description and evaluation of design alternatives
+1) Details each alternatives
+→ 11월 26일 미션 1에 내용 있음.. 여기에 다 넣기에는 내용 너무 많음. 장단점 정리해서 설명하고, 우리가 왜 버튼을 통해 환자가 필요한 사항을 전달하는 어플을 골랐는지 설명하기.
+2) Metrics 
+→ 
+3) design description 
+→ 환자들과 의료진들과의 원활한 의사소통을 위해 환자가 의사를 명확하게 표현할 수 있어야 한다. 
+1) 긴급호출의 경우 환자가 빠르게 선택할 수 있도록 첫 화면에 긴급호출 버튼을 제공한다. 
+2) 그 외의 의사표현은 화면에 환자가 하고싶은 의사표현의 카테고리(예 : 상담,화장실,호출,몸 상태이상 등)를 띄운다.
+3) 카테고리 선택 후 더 자세한 요구사항들을 선택해 알릴 수 있다
+4) 환자의 요구사항이나 의사표현에는 머리 아픔, 기침이 심해짐, 화장실 동행 필요 등이 있을 수 있으며 환자가 어떤 사항을 선택하면, 환자의 호실 정보와 환자가 선택한 사항이 의료진에게 전달된다.
+4) design specifications
+번호
+기능
+
+1 MIT App Inventor를 이용하여 버튼을 이용한 소통 어플을 만든다. 
+
+2 정신질환 환자들을 타겟으로 하기 때문에 최대한 간단하고 명료하게 인터페이스를 구성한다. 
+
+3 환자들이 자주 사용할만한 의사표현을 기본으로 더욱 다양한 의사표현을 추가할 수 있도록 만든다. 
+
+4 외국인들을 위해 다양한 언어를 지원한다.
+
+6. 디자인 evaluation
+1) 제약 조건
+2) 우리가 개발하려는 앱이 우리의 clients의 요구를 충족시키는지
+3) Functional analysis
+4) Details on proposed design changes based on testing and evaluation
+7. 최종 디자인
+1) Detailed description of chosen alternative
+2) POC
+3) Description of prototype
+4) 개발한 앱에 대한 구체적인 설명
+5) 개발한 앱을 사용한 전체적인 음압병실 시스템 설명(구상했던거)
+
+Conclusion
+Reference, Works cited
+Appendix: PPC
+Appendix: Objectives Tree	
+Appendix: Work breakdown structure (WBS)
+Appendix: Percentage Complete Matrix (PCM)
