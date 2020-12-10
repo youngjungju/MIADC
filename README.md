@@ -1,8 +1,5 @@
 ![Screen Shot 2020-12-07 at 23 25 24](https://user-images.githubusercontent.com/71685755/101364924-7581b380-38e6-11eb-855c-0da0680d1f45.png)
 
-### Problem Statement
-자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움
-
 ### TEAM : MIADC(Mentally Ill And Doctor Communication)
 
 ### 12/10 presentation (최종 발표 영상)
