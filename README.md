@@ -2,8 +2,13 @@
 
 ### Problem Statement
 자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 어려움
-===
-MIADC(Mentally Ill And Doctor Communication)
+
+### TEAM : MIADC(Mentally Ill And Doctor Communication)
+
+### 12/10 presentation (최종 발표 영상)
+
+[자신의 상태를 잘 설명하지 못하는 환자와 의료진의 소통의 ](https://youtu.be/gG5fve6AzOc?t=7455)
+
 ---
 
 ### PART 
