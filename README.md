@@ -1,4 +1,4 @@
-### TEAM : MIADC(Mentally Ill And Doctor Communication)
+# TEAM : MIADC(Mentally Ill And Doctor Communication)
 
 ![Screen Shot 2020-12-07 at 23 25 24](https://user-images.githubusercontent.com/71685755/101364924-7581b380-38e6-11eb-855c-0da0680d1f45.png)
 
